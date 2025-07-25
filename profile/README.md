@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hisense Optoelectronics - SONiC Community 
+# Hisense&Ligent - SONiC Community 
 
 ## Introduction
 
