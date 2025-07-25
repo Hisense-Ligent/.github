@@ -44,8 +44,7 @@ We provide resources in the [sonic-mgmt repository](https://github.com/sonic-net
 
 Our [Wiki] contains comprehensive resources for SONiC users:
 
-- **Troubleshooting Guides**: Step-by-step instructions for resolving common optical module issues
-- **Debug SOPs**: Standard operating procedures for advanced debugging scenarios
+- **Troubleshooting Guides**: Step-by-step instructions for resolving common optical module issues [Optical module debug SOP](https://www.ligent.com/)
 - **FAQs**: Answers to frequently asked questions about Hisense optical modules in SONiC
 
 ## Getting Started
@@ -59,10 +58,10 @@ Our [Wiki] contains comprehensive resources for SONiC users:
    # Apply Hisense patches cmis.py cmisCDB
   
    ```
-2.Install OS via ONIE
+2.Install OS via ONIE [How to install SONiC ](https://github.com/hisense-optoelectronics/sonic/issues)
   
 
-3.Set T0 topology & run pytest 
+3.Set T0 topology & run pytest  [testbed](https://github.com/hisense-optoelectronics/sonic/issues)
 
 ### Contributing to Our Efforts
 
@@ -87,8 +86,8 @@ Our team monitors these issues and provides timely responses and resolutions.
 ## Community Resources
 
 - **Hisense optical module datasheet**: [https://sonic-net.github.io/SONiC/](https://sonic-net.github.io/SONiC/)
-- **SONiC Community Support**: 
-- **Hisense Optoelectronics**: [https://www.hisense-opto.com/](https://www.hisense-opto.com/)
+- **SONiC Community Support**: [https://www.ligent.com/](https://www.ligent.com/)
+- **Hisense Optoelectronics**: [https://www.ligent.com/](https://www.ligent.com/)
 
 ## License
 
