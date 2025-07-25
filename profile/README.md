@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to the Hisense Optoelectronics contribution repository for SONiC (Software for Open Networking in the Cloud). As a leading manufacturer of optical transceivers,
+Welcome to the Hisense&Ligent contribution repository for SONiC (Software for Open Networking in the Cloud). As a leading manufacturer of optical transceivers,
 Hisense is committed to enhancing the SONiC ecosystem by providing seamless integration and optimal performance for our optical modules across various networking environments, including OTT, Cloud, SDN, and Telcom.
 This repository focuses on addressing optical module exceptions caused by peripheral driver issues through collaborative development with the SONiC community. 
 -We aim to assist SONiC ecosystem users in efficiently connecting Scale-up and Scale-out networks for AI infrastructure development. 
