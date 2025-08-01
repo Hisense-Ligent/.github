@@ -40,7 +40,7 @@ We provide resources in the [sonic-mgmt repository](https://github.com/sonic-net
 - **Automated Test Cases**: Scripts for verifying compliance with SONiC standards
 - **Test Reports**: Regularly updated validation results for Hisense optical modules in SONiC environments
 
-### 3. Documentation & Support[Technical Support](https://github.com/orgs/Hisense-Ligent/discussions/1)
+### 3.[Technical Support](https://github.com/orgs/Hisense-Ligent/discussions/1)
 
 Our [Wiki] contains comprehensive resources for SONiC users:
 
