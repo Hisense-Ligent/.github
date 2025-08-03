@@ -42,9 +42,9 @@ We provide resources in the [sonic-mgmt repository](https://github.com/sonic-net
 
 ### 3.Technical Support
 
-- Technical Support is available under the [Discussion Section](https://github.com/orgs/Hisense-Ligent/discussions).
+- Technical Support is available under the [discussion section](https://github.com/orgs/Hisense-Ligent/discussions).
 
-- Please submit a ticket via Q&A using the Announcement template to help us quickly identify and resolve the issue.
+- Please submit a ticket via Q&A using the [announcement template](https://github.com/orgs/Hisense-Ligent/discussions/1) to help us quickly identify and resolve the issue.
 ## Getting Started
 
 ### Using Hisense-Enabled SONiC Images test
