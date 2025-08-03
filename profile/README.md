@@ -40,13 +40,11 @@ We provide resources in the [sonic-mgmt repository](https://github.com/sonic-net
 - **Automated Test Cases**: Scripts for verifying compliance with SONiC standards
 - **Test Reports**: Regularly updated validation results for Hisense optical modules in SONiC environments
 
-### 3.[Technical Support](https://github.com/orgs/Hisense-Ligent/discussions)
+### 3.Technical Support
 
-Our [Wiki] contains comprehensive resources for SONiC users:
+- Technical Support is available under the [Discussion Section](https://github.com/orgs/Hisense-Ligent/discussions).
 
-- **Troubleshooting Guides**: Step-by-step instructions for resolving common optical module issues [Optical Module Debug SOP](https://github.com/orgs/Hisense-Ligent/discussions/1)
-- **FAQs**: Answers to frequently asked questions about Hisense optical modules in SONiC
-
+- Please submit a ticket via Q&A using the Announcement template to help us quickly identify and resolve the issue.
 ## Getting Started
 
 ### Using Hisense-Enabled SONiC Images test
