@@ -57,7 +57,7 @@ These contributions ensure consistent behavior and performance of Hisense optica
 ## Community Resources
 
 - **[Hisense optical module datasheet](https://hbmt.hisense.com)**:
-- **[Ligent optical module datasheet](www.ligent.com)**
+- **[Ligent optical module datasheet](https://www.ligent.com/#solutions)**
 
 ## License
 
