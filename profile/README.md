@@ -21,7 +21,7 @@ This repository focuses on addressing optical module exceptions caused by periph
 
 - when submitting a bug ticket please use the [announcement template](https://github.com/orgs/Hisense-Ligent/discussions/1) to help us quickly identify and resolve the issue.
   
-- We'll share optical communication-related technical materials from the AI Data Center Open Source Summit in this community. You can access tech sharing from this top summit here. If interested in optical module tech, 
+- We'll share [optical communication-related technical materials](https://github.com/Hisense-Ligent/SONiC-OCP-OFC-Summit-Related-Highlight) from the AI Data Center Open Source Summit in this community. You can access tech sharing from this top summit here. If interested in optical module tech, 
   feel free to contact us.
 
 ### 2. Testing & Validation
