@@ -5,7 +5,7 @@
 ## Introduction
 
 Welcome to the [Hisense&Ligent](https://www.ligent.com/) contribution repository for [SONiC (Software for Open Networking in the Cloud)](https://github.com/sonic-net). As a leading manufacturer of optical transceivers,
-Hisense is committed to enhancing the SONiC ecosystem by providing seamless integration and optimal performance for our optical modules across various networking environments, including OTT, Cloud, SDN, and Telcom.
+Hisense is committed to enhancing the SONiC ecosystem by providing seamless integration and optimal performance for our optical modules across various networking environments, including Cloud, OTT, SDN, and Telcom.
 This repository focuses on addressing optical module exceptions caused by peripheral driver issues through collaborative development with the SONiC community. 
 - We will share our technical support in the optical module domain, and enable stable firmware upgrades for optical modules while maintaining continuous service traffic in SONiC cloud environments.
 - We provide optical module compatibility test reports based on various white-box hardware platforms.
