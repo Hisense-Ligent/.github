@@ -60,7 +60,7 @@ These contributions ensure consistent behavior and performance of Hisense optica
 2.Install OS via ONIE [How to install SONiC ](https://github.com/hisense-optoelectronics/sonic/issues)
   
 
-3.Set T0 topology & run pytest  [testbed](https://github.com/hisense-optoelectronics/sonic/issues)
+3.Set topology & run pytest  [Testbed](https://github.com/Hisense-Ligent/SONiC-CICT/tree/main）
 
 ### Contributing to Our Efforts
 
