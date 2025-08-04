@@ -26,7 +26,7 @@ This repository focuses on addressing optical module exceptions caused by periph
 
 ### 2. Testing & Validation
 
-We provide resources in the [SONIC-CICT repository](https://github.com/sonic-net/sonic-mgmt) to facilitate rigorous testing of optical modules:
+We are verifying the stability of Hisense optical modules on various platforms based on the SONiC-MGMT project. The related test topology, test code, and reports will be shared in the Hisense SONiC automation test case:
 
 - **Test Topologies**: Pre-configured test environments for validating optical module functionality
 - **Automated Test Cases**: Scripts for verifying compliance with SONiC standards
