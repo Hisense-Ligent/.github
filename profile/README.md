@@ -56,9 +56,8 @@ These contributions ensure consistent behavior and performance of Hisense optica
 
 ## Community Resources
 
-- **Hisense optical module datasheet**: [https://sonic-net.github.io/SONiC/]()
-- **SONiC Community Support**: [https://www.ligent.com/](https://www.ligent.com/)
-- **Hisense Optoelectronics**: [https://www.ligent.com/](https://www.ligent.com/)
+- **[Hisense optical module datasheet](https://hbmt.hisense.com)**:
+- **[Ligent optical module datasheet](www.ligent.com)**
 
 ## License
 
