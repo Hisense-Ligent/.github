@@ -51,36 +51,12 @@ These contributions ensure consistent behavior and performance of Hisense optica
 ### Using Hisense-Enabled SONiC Images test
 
 1. [Build SONiC](https://github.com/Hisense-Ligent/SONiC-image) images with Hisense driver enhancements:
-  
-  
-2.Install OS via ONIE [How to install SONiC ](https://github.com/Hisense-Ligent/SONiC-image)
-  
-
-3.[Set topology & Run pytest](https://github.com/Hisense-Ligent/SONiC-CICT/tree/main)
-
-### Contributing to Our Efforts
-
-We welcome contributions from the community! To contribute:
-
-1. Fork this repository and create a feature branch
-2. Submit pull requests for code reviews
-3. Participate in issue resolution and testing efforts
-
-Please adhere to the [SONiC Contribution Guidelines](https://github.com/sonic-net/SONiC/blob/master/CONTRIBUTING.md) when submitting changes.
-
-### Reporting Issues
-
-If you encounter issues with Hisense optical modules in your SONiC environment, please:
-
-1. Check the [existing issues](https://github.com/hisense-optoelectronics/sonic/issues)
-2. Use the [issue template](https://github.com/hisense-optoelectronics/sonic/issues/new) to submit detailed information
-3. Include relevant logs and configuration details
-
-Our team monitors these issues and provides timely responses and resolutions.
+2. Install OS via ONIE [How to install SONiC ](https://github.com/Hisense-Ligent/SONiC-image)
+3. [Set topology & Run pytest](https://github.com/Hisense-Ligent/SONiC-CICT/tree/main)
 
 ## Community Resources
 
-- **Hisense optical module datasheet**: [https://sonic-net.github.io/SONiC/](https://sonic-net.github.io/SONiC/)
+- **Hisense optical module datasheet**: [https://sonic-net.github.io/SONiC/]()
 - **SONiC Community Support**: [https://www.ligent.com/](https://www.ligent.com/)
 - **Hisense Optoelectronics**: [https://www.ligent.com/](https://www.ligent.com/)
 
