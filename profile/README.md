@@ -7,18 +7,29 @@
 Welcome to the Hisense&Ligent contribution repository for SONiC (Software for Open Networking in the Cloud). As a leading manufacturer of optical transceivers,
 Hisense is committed to enhancing the SONiC ecosystem by providing seamless integration and optimal performance for our optical modules across various networking environments, including OTT, Cloud, SDN, and Telcom.
 This repository focuses on addressing optical module exceptions caused by peripheral driver issues through collaborative development with the SONiC community. 
-- We aim to assist SONiC ecosystem users in efficiently connecting Scale-up and Scale-out networks for AI infrastructure development. 
+- We will share our technical support in the optical module domain, and enable stable firmware upgrades for optical modules while maintaining continuous service traffic in SONiC cloud environments.
 - We provide optical module compatibility test reports based on various white-box hardware platforms.
-- We will share our technical expertise in the optical module domain, and enable stable firmware upgrades for optical modules while maintaining continuous service traffic in SONiC cloud environments.
+- We aim to assist SONiC ecosystem users in efficiently connecting Scale-up and Scale-out networks for AI infrastructure development. 
+
 
 ## Our Contributions
 
-- Contributing platform and device driver enhancements
-- Providing test topologies and validation frameworks
-- Offering comprehensive troubleshooting resources
-- Maintaining an active support channel for community issues
 
-### 1. Driver Development & Integration
+### 1.Technical Support
+
+- Technical Support is available under the [discussion section（Q&A）](https://github.com/orgs/Hisense-Ligent/discussions).
+
+- Please submit a ticket via Q&A using the [announcement template](https://github.com/orgs/Hisense-Ligent/discussions/1) to help us quickly identify and resolve the issue.
+
+### 2. Testing & Validation
+
+We provide resources in the [sonic-mgmt repository](https://github.com/sonic-net/sonic-mgmt) to facilitate rigorous testing of optical modules:
+
+- **Test Topologies**: Pre-configured test environments for validating optical module functionality
+- **Automated Test Cases**: Scripts for verifying compliance with SONiC standards
+- **Test Reports**: Regularly updated validation results for Hisense optical modules in SONiC environments
+
+### 3. Driver Development & Integration
 
 We actively contribute to the following code paths in the https://github.com/Hisense-Ligent/SONiC-image:
 
@@ -32,19 +43,6 @@ We actively contribute to the following code paths in the https://github.com/His
 
 These contributions ensure consistent behavior and performance of Hisense optical modules across diverse SONiC deployments.
 
-### 2. Testing & Validation
-
-We provide resources in the [sonic-mgmt repository](https://github.com/sonic-net/sonic-mgmt) to facilitate rigorous testing of optical modules:
-
-- **Test Topologies**: Pre-configured test environments for validating optical module functionality
-- **Automated Test Cases**: Scripts for verifying compliance with SONiC standards
-- **Test Reports**: Regularly updated validation results for Hisense optical modules in SONiC environments
-
-### 3.Technical Support
-
-- Technical Support is available under the [discussion section（Q&A）](https://github.com/orgs/Hisense-Ligent/discussions).
-
-- Please submit a ticket via Q&A using the [announcement template](https://github.com/orgs/Hisense-Ligent/discussions/1) to help us quickly identify and resolve the issue.
 ## Getting Started
 
 ### Using Hisense-Enabled SONiC Images test
