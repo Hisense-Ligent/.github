@@ -19,7 +19,7 @@ This repository focuses on addressing optical module exceptions caused by periph
 
 - Technical Support is available under the [discussion section（Q&A）](https://github.com/orgs/Hisense-Ligent/discussions).
 
-- Please submit a ticket via Q&A using the [announcement template](https://github.com/orgs/Hisense-Ligent/discussions/1) to help us quickly identify and resolve the issue.
+- when submitting a bug ticket please use the [announcement template](https://github.com/orgs/Hisense-Ligent/discussions/1) to help us quickly identify and resolve the issue.
 
 ### 2. Testing & Validation
 
