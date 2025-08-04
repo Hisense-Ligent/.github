@@ -50,18 +50,10 @@ These contributions ensure consistent behavior and performance of Hisense optica
 
 ### Using Hisense-Enabled SONiC Images test
 
-1. Build SONiC images with Hisense driver enhancements:
-   ```bash
-   git clone https://github.com/sonic-net/sonic-buildimage.git
-
-   cd sonic-buildimage
-   # Apply Hisense patches cmis.py cmisCDB
-
-   make configure PLATFORM=<platform_name>
-   make
+1. [Build SONiC](https://github.com/Hisense-Ligent/SONiC-image) images with Hisense driver enhancements:
   
-   ```
-2.Install OS via ONIE [How to install SONiC ](https://github.com/hisense-optoelectronics/sonic/issues)
+  
+2.Install OS via ONIE [How to install SONiC ](https://github.com/Hisense-Ligent/SONiC-image)
   
 
 3.[Set topology & Run pytest](https://github.com/Hisense-Ligent/SONiC-CICT/tree/main)
