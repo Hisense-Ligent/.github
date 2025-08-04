@@ -26,7 +26,7 @@ This repository focuses on addressing optical module exceptions caused by periph
 
 ### 2. Testing & Validation
 
-We provide resources in the [sonic-mgmt repository](https://github.com/sonic-net/sonic-mgmt) to facilitate rigorous testing of optical modules:
+We provide resources in the [SONIC-CICT repository](https://github.com/sonic-net/sonic-mgmt) to facilitate rigorous testing of optical modules:
 
 - **Test Topologies**: Pre-configured test environments for validating optical module functionality
 - **Automated Test Cases**: Scripts for verifying compliance with SONiC standards
