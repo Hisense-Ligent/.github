@@ -39,8 +39,6 @@ We actively contribute to the following code paths in the https://github.com/His
 - **Platform Drivers**: Enhancements to platform-agnostic base classes and interfaces
   - `sfp_base.py`: Base class for SFP interface management
   - `xcvr.py`: Transceiver module management framework
-
-- **Device-Specific Drivers**: Optimizations for Hisense optical modules across different ASIC platforms
   - `cmisCDB.py` & `cmis.py`: Common Management Interface Specification (CMIS) implementation
   - `qsfp_dd.py`: QSFP-DD module-specific driver enhancements
 
