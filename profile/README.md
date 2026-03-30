@@ -11,8 +11,8 @@ We partner with global cloud giants and networking leaders to spearhead **AI Inf
 ## 🛠️ What We Do
 
 ### 1. Testing & Validation
-* **Field-Proven Performance:** We provide real-world test reports for our **full product line (100G to 3.2T)**, validated within live **AI Factory** environments to ensure maximum reliability.
-* **Universal Benchmarking:** We go beyond proprietary data. By partnering with leading cloud and networking vendors, we define **industry-standard benchmarks** that ensure our reports are transparent, credible, and vendor-neutral.
+* **Field-Proven Performance:** We provide **Production-ready test report** for our full product line (100G to 3.2T), validated within live AI Factory environments to ensure maximum reliability.
+* **Universal [Benchmarking](https://github.com/sonic-net/sonic-mgmt/blob/master/docs/testplan/transceiver/test_plan.md):** We go beyond proprietary data. By partnering with leading cloud and networking vendors, We define **Production-ready test report** that ensure our reports are transparent, credible, and vendor-neutral.
 * **Full-Stack Interconnect Ecosystem:** Our solutions cover every AI connectivity scenario—**Scale-Up, Scale-Out, and Scale-Across**—spanning transceiver modules, breakout cables, AOCs, and DACs.
 
 ### 2. Technical Support & Collaboration
@@ -22,13 +22,14 @@ We partner with global cloud giants and networking leaders to spearhead **AI Inf
 
 ### 3. SONiC-MGMT & Protocol Contributions
 * **Ecosystem Alignment:** We stay synchronized with evolving **SONiC-MGMT** benchmarks and are committed to contributing code and methodology back to the community.
-* **Protocol Expertise:** We are deeply engaged with industry standards including **CMIS, C-CMIS, SFF-8636, SFF-8436, and SFF-8472**. We invite experts and enthusiasts to connect with us and explore these protocols further.
+* **Protocol Expertise:** If you are interested in the interaction and validation between SONiC systems and optical modules based on the following protocols:
+CMIS, C-CMIS, SFF-8636, SFF-8436, SFF-8472，We welcome you to join us and contribute together with the SONiC-MGMT community.
 
 ---
 
 ## 📂 Community Resources
 
-* 📑 **[[Ligent Product Datasheets](https://www.ligent.com/#solutions)](https://www.ligent.com/products/products_module/16t/)**
+* 📑 **[[Ligent Product Datasheets](https://www.ligent.com/products/products_module/16t/)]**
 * ⚖️ **License:** This project is licensed under the **Apache License 2.0**.
 
 ---
