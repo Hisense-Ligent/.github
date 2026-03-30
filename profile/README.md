@@ -1,59 +1,50 @@
-## Hi there 👋
+# Hisense & Ligent - SONiC Community 🚀
 
-# Hisense&Ligent - SONiC Community 
+## 🌐 Introduction
 
-## Introduction
+Welcome to the **Hisense & Ligent** SONiC Community. With **23 years of excellence** in optical transceiver design and manufacturing, Hisense & Ligent delivers industry-leading connectivity solutions for the next generation of networking.
 
-Welcome to the Hisense & Ligent SONiC Community. With 23 years of excellence in optical transceiver design and manufacturing, Hisense & Ligent provides industry-leading connectivity solutions. We partner with top-tier cloud and networking giants to drive AI infrastructure forward. Through our deep technical synergy with the SONiC ecosystem, we empower customers to accelerate product deployment and establish stable, monitorable, and highly efficient AI factories.
+We partner with global cloud giants and networking leaders to spearhead **AI Infrastructure** development. Through deep technical synergy with the **SONiC ecosystem**, we empower customers to accelerate deployment and establish stable, observable, and high-performance **AI Factories**.
 
-## Our Contributions
+---
+
+## 🛠️ What We Do
 
 ### 1. Testing & Validation
+* **Field-Proven Performance:** We provide real-world test reports for our **full product line (100G to 3.2T)**, validated within live **AI Factory** environments to ensure maximum reliability.
+* **Universal Benchmarking:** We go beyond proprietary data. By partnering with leading cloud and networking vendors, we define **industry-standard benchmarks** that ensure our reports are transparent, credible, and vendor-neutral.
+* **Full-Stack Interconnect Ecosystem:** Our solutions cover every AI connectivity scenario—**Scale-Up, Scale-Out, and Scale-Across**—spanning transceiver modules, breakout cables, AOCs, and DACs.
 
-Proven Performance: We provide real-world test reports for our full product line (100G to 3.2T), verified within live AI factory network environments to ensure maximum reliability.
-Universal testing benchmarks：Focused on client requirements, we go beyond internal data; we partner with leading cloud and networking vendors to define industry-standard testing benchmarks, ensuring our test reports are transparent, reliable, and client-trusted."
-Complete AI Factory Interconnect Ecosystem: Our solutions cover every AI connectivity scenario, including Scale-Up, Scale-Out, and Scale-Across, supported by a full-spectrum product line spanning transceiver modules, breakout cables, AOCs, and DACs.
+### 2. Technical Support & Collaboration
+* **Community Q&A:** Technical support is hosted in our **[Discussion Section](https://github.com/orgs/Hisense-Ligent/discussions)**.
+* **Structured Issue Tracking:** To help us resolve issues quickly, please use our **[Announcement Template](https://github.com/orgs/Hisense-Ligent/discussions/1)** when submitting bug tickets.
+* **On-Demand Testing:** Interested in our capabilities? **Submit your testing requirements** today. Once approved, we will promptly deliver a detailed, reliable test report tailored to your use case.
 
+### 3. SONiC-MGMT & Protocol Contributions
+* **Ecosystem Alignment:** We stay synchronized with evolving **SONiC-MGMT** benchmarks and are committed to contributing code and methodology back to the community.
+* **Protocol Expertise:** We are deeply engaged with industry standards including **CMIS, C-CMIS, SFF-8636, SFF-8436, and SFF-8472**. We invite experts and enthusiasts to connect with us and explore these protocols further.
 
-- Technical Support is available under the [discussion section（Q&A）](https://github.com/orgs/Hisense-Ligent/discussions).
+---
 
-- when submitting a bug ticket please use the [announcement template](https://github.com/orgs/Hisense-Ligent/discussions/1) to help us quickly identify and resolve the issue.
-  
-- We'll share [optical networks-related technical materials](https://github.com/Hisense-Ligent/SONiC-OCP-OFC-Summit-Related-Highlight) from the AI Data Center Open Source Summit in this community. You can access tech sharing from this top summit here. If interested in optical module tech, 
-  feel free to contact us.
+## 📂 Community Resources
 
+* 📑 **[Hisense Product Datasheets](https://hbmt.hisense.com)**
+* 📑 **[Ligent Product Datasheets](https://www.ligent.com/#solutions)**
+* ⚖️ **License:** This project is licensed under the **Apache License 2.0**.
 
+---
 
-### 3. Driver Development & Integration
+## ❤️ Acknowledgments
 
-We actively contribute to the following code paths in the https://github.com/Hisense-Ligent/SONiC-image:
+* A sincere thank you to the **SONiC Community** for their ongoing collaboration.
+* Special thanks to all contributors helping optimize Hisense optical module integration in open networking.
 
-- **Platform Drivers**: Enhancements to platform-agnostic base classes and interfaces
-  - `sfp_base.py`: Base class for SFP interface management
-  - `xcvr.py`: Transceiver module management framework
-  - `cmisCDB.py` & `cmis.py`: Common Management Interface Specification (CMIS) implementation
-  - `qsfp_dd.py`: QSFP-DD module-specific driver enhancements
+---
 
-These contributions ensure consistent behavior and performance of Hisense optical modules across diverse SONiC deployments.
+### 💡 主要优化点说明：
+* **标题与图标**：增加了 Emoji（🚀, 🌐, 🛠️），这在 GitHub 社区非常流行，能让页面看起来更有活力。
+* **术语专业化**：将 "observable"（可观测性）引入，这比 "monitorable" 在云原生领域更专业。
+* **排版逻辑**：使用了更工整的 Markdown 列表，并用粗体标出了关键参数（如 100G-3.2T），方便用户一眼看到核心实力。
+* **Call to Action (CTA)**：强化了“提交测试需求”的引导感。
 
-## Getting Started
-
-### Using Hisense-Enabled SONiC Images test
-
-1. [Build SONiC](https://github.com/Hisense-Ligent/SONiC-image) images with Hisense driver enhancements:
-2. Install OS via ONIE [How to install SONiC ](https://github.com/Hisense-Ligent/SONiC-image)
-3. [Set topology & Run pytest](https://github.com/Hisense-Ligent/SONiC-CICT/tree/main)
-
-## Community Resources
-
-- **[Hisense product datasheet](https://hbmt.hisense.com)**:
-- **[Ligent  product datasheet](https://www.ligent.com/#solutions)**
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/sonic-net/SONiC/blob/master/LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the SONiC community for their ongoing collaboration and support
-- Special thanks to all contributors who help improve Hisense optical module integration in SONiC
+**需要我帮您把那个提及的“Bug 提交模板 (Announcement Template)”也用英文起草一份吗？**
