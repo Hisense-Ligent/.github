@@ -28,7 +28,7 @@ We partner with global cloud giants and networking leaders to spearhead **AI Inf
 
 ## 📂 Community Resources
 
-* 📑 **[Ligent Product Datasheets](https://www.ligent.com/#solutions)**
+* 📑 **[[Ligent Product Datasheets](https://www.ligent.com/#solutions)](https://www.ligent.com/products/products_module/16t/)**
 * ⚖️ **License:** This project is licensed under the **Apache License 2.0**.
 
 ---
