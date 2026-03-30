@@ -8,8 +8,12 @@ Welcome to the Hisense & Ligent SONiC Community. With 23 years of excellence in 
 
 ## Our Contributions
 
+### 1. Testing & Validation
 
-### 1.Technical Support
+Proven Performance: We provide real-world test reports for our full product line (100G to 3.2T), verified within live AI factory network environments to ensure maximum reliability.
+Universal testing benchmarks：Focused on client requirements, we go beyond internal data; we partner with leading cloud and networking vendors to define industry-standard testing benchmarks, ensuring our test reports are transparent, reliable, and client-trusted."
+Complete AI Factory Interconnect Ecosystem: Our solutions cover every AI connectivity scenario, including Scale-Up, Scale-Out, and Scale-Across, supported by a full-spectrum product line spanning transceiver modules, breakout cables, AOCs, and DACs.
+
 
 - Technical Support is available under the [discussion section（Q&A）](https://github.com/orgs/Hisense-Ligent/discussions).
 
@@ -18,13 +22,7 @@ Welcome to the Hisense & Ligent SONiC Community. With 23 years of excellence in 
 - We'll share [optical networks-related technical materials](https://github.com/Hisense-Ligent/SONiC-OCP-OFC-Summit-Related-Highlight) from the AI Data Center Open Source Summit in this community. You can access tech sharing from this top summit here. If interested in optical module tech, 
   feel free to contact us.
 
-### 2. Testing & Validation
 
-We are verifying the stability of Hisense optical modules on various platforms based on the [SONiC-MGMT project](https://github.com/Hisense-Ligent/SONiC-MGMT). The related test topology, test code, and reports will be shared in the [Hisense SONiC automation test case](https://github.com/Hisense-Ligent/SONiC-CICT):
-
-- **Test Topologies**: Pre-configured test environments for validating optical module functionality
-- **Automated Test Cases**: Scripts for verifying compliance with SONiC standards
-- **Test Reports**: Regularly updated validation results for Hisense optical modules in SONiC environments
 
 ### 3. Driver Development & Integration
 
