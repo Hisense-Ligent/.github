@@ -11,17 +11,10 @@ We partner with global cloud giants and networking leaders to spearhead **AI Inf
 ## 🛠️ What We Do
 
 ### 1. Testing & Validation
-* **Field-Proven Performance:** We provide **Production-ready test report** for our full product line (100G to 3.2T), validated within live AI Factory environments to ensure maximum reliability.
-* **Universal [Benchmarking](https://github.com/sonic-net/sonic-mgmt/blob/master/docs/testplan/transceiver/test_plan.md):** We go beyond proprietary data. By partnering with leading cloud and networking vendors, We define **Production-ready test report** that ensure our reports are transparent, credible, and vendor-neutral.
-* **Full-Stack Interconnect Ecosystem:** Our solutions cover every AI connectivity scenario—**Scale-Up, Scale-Out, and Scale-Across**—spanning transceiver modules, breakout cables, AOCs, and DACs.
-
+* **Production-Grade Validation for AI Factory:** Ligent used top-tier comms hardware to build testbeds and produced AI Factory production-grade test reports based on top-tier cloud vendors’ benchmarks. 
 ### 2. Technical Support & Collaboration
-* **Community Q&A:** Please submit all questions concerning our products or validation reports via the following link：**[Discussion Section](https://github.com/orgs/Hisense-Ligent/discussions)**.
-* **Structured Issue Tracking:** To help us resolve issues quickly, please use our **[Announcement Template](https://github.com/orgs/Hisense-Ligent/discussions/1)** when submitting bug tickets.
-* **On-Demand Testing:** Interested in our capabilities? **Submit your testing requirements** today. Once approved, we will promptly deliver a detailed, reliable test report tailored to your use case.
-
+* **Community Q&A:**  Any issues encountered during testing are welcome to be discussed with us in the technical support section.
 ### 3. SONiC-MGMT & Protocol Contributions
-* **Ecosystem Alignment:** We stay synchronized with evolving **SONiC-MGMT** benchmarks and are committed to contributing code and methodology back to the community.
 * **Protocol Expertise:** If you are interested in the interaction and validation between SONiC systems and optical modules based on the following protocols:
 CMIS, C-CMIS, SFF-8636, SFF-8436, SFF-8472，We welcome you to join us and contribute together with the SONiC-MGMT community.
 
