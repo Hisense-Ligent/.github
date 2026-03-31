@@ -4,7 +4,7 @@
 
 Welcome to the **Hisense & Ligent** SONiC-MGMT Community. With **23 years of excellence** in optical transceiver design and manufacturing, Hisense & Ligent delivers industry-leading connectivity solutions for the next generation of networking.
 
-We partner with global cloud giants and networking leaders to spearhead **AI Infrastructure** development. Through deep technical synergy with the **SONiC ecosystem**, we empower customers to accelerate deployment and establish stable, observable, and high-performance **AI Factories**.
+We partner with global cloud giants and networking leaders to spearhead **AI Infrastructure** development. Through deep technical collaborate with the **SONiC ecosystem**, we empower customers to accelerate deployment and establish stable, observable, and high-performance **AI Factories**.
 
 ---
 
