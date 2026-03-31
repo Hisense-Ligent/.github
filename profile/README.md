@@ -30,6 +30,9 @@ CMIS, C-CMIS, SFF-8636, SFF-8436, SFF-8472，We welcome you to join us and contr
 ## 📂 Community Resources
 
 * 📑 **[[Ligent Product Datasheets](https://www.ligent.com/products/products_module/16t/)]**
+* 📑 **[[Ligent Technical Support](https://www.ligent.com/products/products_module/16t/)]**
+* 📑 **[[Ligent AI Infra Test Requipment](https://www.ligent.com/products/products_module/16t/)]**
+* 📑 **[[Ligent AI Infra Test Report](https://www.ligent.com/products/products_module/16t/)]**
 * ⚖️ **License:** This project is licensed under the **Apache License 2.0**.
 
 ---
