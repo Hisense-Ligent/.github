@@ -1,4 +1,4 @@
-# Hisense & Ligent SONiC-MGMT 🚀
+# Hisense & Ligent SONiC-MGMT 
 
 ## 🌐 Introduction
 
@@ -22,10 +22,10 @@ CMIS, C-CMIS, SFF-8636, SFF-8436, SFF-8472，We welcome you to join us and contr
 
 ## 📂 Community Resources
 
-* 📑 **[[Ligent Product Datasheets](https://www.ligent.com/products/products_module/16t/)]**
-* 📑 **[[Ligent Technical Support](https://github.com/orgs/Hisense-Ligent/discussions/categories/sonic_support-layer_1)]**
-* 📑 **[[Ligent AI Infra SONiC Test Requipments](https://github.com/orgs/Hisense-Ligent/discussions/categories/sonic_test_requipments)]**
-* 📑 **[[Ligent AI Infra SONiC Test Report]([]**
+*  **[[Ligent Product Datasheets](https://www.ligent.com/products/products_module/16t/)]**
+*  **[[Ligent Technical Support](https://github.com/orgs/Hisense-Ligent/discussions/categories/sonic_support-layer_1)]**
+*  **[[Ligent AI Infra SONiC Test Requipments](https://github.com/orgs/Hisense-Ligent/discussions/categories/sonic_test_requipments)]**
+*  **[[Ligent AI Infra SONiC Test Reports](https://github.com/Hisense-Ligent/Ligent_Infra_Products_Reports)**
 * ⚖️ **License:** This project is licensed under the **Apache License 2.0**.
 
 ---
