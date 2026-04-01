@@ -14,7 +14,7 @@ We partner with global cloud giants and networking leaders to spearhead **AI Inf
 * **Production-Grade Validation for AI Factory:** Ligent used top-tier comms hardware to build testbeds and produced AI Factory production-grade test reports based on **[top-tier cloud vendors’ benchmarks](https://github.com/sonic-net/sonic-mgmt/tree/master/tests)**
 ### 2. Technical Support & Collaboration
 * **Community Q&A:**  Any issues encountered during testing are welcome to be discussed with us in the technical support section.
-### 3. SONiC-MGMT Contribution
+### 3. SONiC-MGMT-Layer1 Contribution
 * **Protocol Expertise:** If you are interested in the interaction and validation between SONiC systems and optical modules based on the following protocols:
 CMIS, C-CMIS, SFF-8636, SFF-8436, SFF-8472，We welcome you to join us and contribute together with the SONiC-MGMT community.
 
