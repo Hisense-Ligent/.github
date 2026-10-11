@@ -12,6 +12,8 @@ We partner with global cloud giants and networking leaders to spearhead **AI Inf
 
 ### 1. Testing & Validation
 * **Production-Grade Validation for AI Factory:** Ligent used top-tier comms hardware to build testbeds and produced AI Factory production-grade test reports based on **[top-tier cloud vendors’ benchmarks](https://github.com/sonic-net/sonic-mgmt/tree/master/tests)**
+  <img width="1914" height="952" alt="f882a0b39019612f1e5594d2a17148b1" src="https://github.com/user-attachments/assets/6bd57b29-1e63-4db4-ad5c-97994b0336a0" />
+
 ### 2. Technical Support & Collaboration
 * **Community Q&A:**  Any issues encountered during testing are welcome to be discussed with us in the technical support section.
 ### 3. SONiC-MGMT-Layer1 Contribution
